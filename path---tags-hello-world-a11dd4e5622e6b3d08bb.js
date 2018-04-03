@@ -1,0 +1,2 @@
+webpackJsonp([27386866079921],{454:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/hello-world"},excerpt:"Main Title Sub Title This is a first post. This site was made by generators. Thank you.  ",timeToRead:1,frontmatter:{title:"Hello world",tags:["hello world","test"],cover:"https://unsplash.it/400/300/?random?TheFallenTime",date:"17/03/2018"}}}]}},pathContext:{tag:"hello world"}}}});
+//# sourceMappingURL=path---tags-hello-world-a11dd4e5622e6b3d08bb.js.map
