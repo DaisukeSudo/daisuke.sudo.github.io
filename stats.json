@@ -1,8 +1,12 @@
 {
   "assetsByChunkName": {
     "path---categories-website": [
-      "path---categories-website-c696de7b84563aa41160.js",
-      "path---categories-website-c696de7b84563aa41160.js.map"
+      "path---categories-website-b6884a158eaf10621cec.js",
+      "path---categories-website-b6884a158eaf10621cec.js.map"
+    ],
+    "path---why-does-life-prefer-continuity": [
+      "path---why-does-life-prefer-continuity-4cab79874e272cf4673d.js",
+      "path---why-does-life-prefer-continuity-4cab79874e272cf4673d.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
@@ -13,8 +17,8 @@
       "component---src-layouts-index-jsx-176ae126d3c356f5fa52.js.map"
     ],
     "path---tags-react": [
-      "path---tags-react-3f05f0febb6c16aeb44d.js",
-      "path---tags-react-3f05f0febb6c16aeb44d.js.map"
+      "path---tags-react-29880a05c176f09bd8fe.js",
+      "path---tags-react-29880a05c176f09bd8fe.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-f2981d21be31b3663cca.js",
@@ -25,16 +29,16 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---index": [
-      "path---index-fc5715e023ebaec4f6b1.js",
-      "path---index-fc5715e023ebaec4f6b1.js.map"
+      "path---index-3865f5f9edfb105783a9.js",
+      "path---index-3865f5f9edfb105783a9.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-8e5808f8dbe9f7cb6b9b.js",
-      "path---hello-world-8e5808f8dbe9f7cb6b9b.js.map"
+      "path---hello-world-2d04866d4f812d10730e.js",
+      "path---hello-world-2d04866d4f812d10730e.js.map"
     ],
     "commons": [
       "commons-942445d4c8ca71a0bd39.js",
@@ -58,11 +62,19 @@
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js",
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
     ],
+    "path---tags-life": [
+      "path---tags-life-0f7a5503a36fbd8ff0a8.js",
+      "path---tags-life-0f7a5503a36fbd8ff0a8.js.map"
+    ],
     "app": [
-      "app-43daa13a23109ed495ee.js",
+      "app-e638da66c76db6bb3ffb.js",
       "build-js-styles.css",
-      "app-43daa13a23109ed495ee.js.map",
+      "app-e638da66c76db6bb3ffb.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---categories-think": [
+      "path---categories-think-81ec806cbdd2bbd7afae.js",
+      "path---categories-think-81ec806cbdd2bbd7afae.js.map"
     ],
     "path---about": [
       "path---about-586c7e095e534a3909ec.js",
