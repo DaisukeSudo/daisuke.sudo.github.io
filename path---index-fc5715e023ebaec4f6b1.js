@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{451:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{fields:{slug:"/hello-world"},excerpt:'こんにちは。 このサイトは静的サイトジェネレーター "Gatsby JS" で作成されました。   React を使った SPA サイトが簡単につくれます。 https://www.gatsbyjs.org…',timeToRead:1,frontmatter:{title:"Hello world",tags:["react"],cover:"https://unsplash.it/400/300/?random?TheFallenTime",date:"2018/04/03"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-fc5715e023ebaec4f6b1.js.map

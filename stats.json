@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
-    "path---tags-hello-world": [
-      "path---tags-hello-world-a11dd4e5622e6b3d08bb.js",
-      "path---tags-hello-world-a11dd4e5622e6b3d08bb.js.map"
+    "path---categories-website": [
+      "path---categories-website-c696de7b84563aa41160.js",
+      "path---categories-website-c696de7b84563aa41160.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
@@ -12,9 +12,9 @@
       "component---src-layouts-index-jsx-176ae126d3c356f5fa52.js",
       "component---src-layouts-index-jsx-176ae126d3c356f5fa52.js.map"
     ],
-    "path---categories-tech": [
-      "path---categories-tech-6f9035c3d089399c737b.js",
-      "path---categories-tech-6f9035c3d089399c737b.js.map"
+    "path---tags-react": [
+      "path---tags-react-3f05f0febb6c16aeb44d.js",
+      "path---tags-react-3f05f0febb6c16aeb44d.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-f2981d21be31b3663cca.js",
@@ -25,16 +25,16 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---index": [
-      "path---index-8b399abeb2f5fb776937.js",
-      "path---index-8b399abeb2f5fb776937.js.map"
+      "path---index-fc5715e023ebaec4f6b1.js",
+      "path---index-fc5715e023ebaec4f6b1.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-239a08064324e2ab1382.js",
-      "path---hello-world-239a08064324e2ab1382.js.map"
+      "path---hello-world-8e5808f8dbe9f7cb6b9b.js",
+      "path---hello-world-8e5808f8dbe9f7cb6b9b.js.map"
     ],
     "commons": [
       "commons-942445d4c8ca71a0bd39.js",
@@ -59,14 +59,10 @@
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
     ],
     "app": [
-      "app-7e95d8494d12e04a9007.js",
+      "app-43daa13a23109ed495ee.js",
       "build-js-styles.css",
-      "app-7e95d8494d12e04a9007.js.map",
+      "app-43daa13a23109ed495ee.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---tags-test": [
-      "path---tags-test-4c3c8dd69a0b2e643aa8.js",
-      "path---tags-test-4c3c8dd69a0b2e643aa8.js.map"
     ],
     "path---about": [
       "path---about-586c7e095e534a3909ec.js",
