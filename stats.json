@@ -12,10 +12,6 @@
       "path---tags-entropy-ea6b26cb104a0991ff50.js",
       "path---tags-entropy-ea6b26cb104a0991ff50.js.map"
     ],
-    "path---categories-website": [
-      "path---categories-website-b6884a158eaf10621cec.js",
-      "path---categories-website-b6884a158eaf10621cec.js.map"
-    ],
     "path---why-does-life-prefer-continuity": [
       "path---why-does-life-prefer-continuity-fd0c6257fe96a15cba0b.js",
       "path---why-does-life-prefer-continuity-fd0c6257fe96a15cba0b.js.map"
@@ -24,13 +20,17 @@
       "path----6611940bd40871b680a6.js",
       "path----6611940bd40871b680a6.js.map"
     ],
-    "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-176ae126d3c356f5fa52.js",
-      "component---src-layouts-index-jsx-176ae126d3c356f5fa52.js.map"
+    "path---tags-react-js": [
+      "path---tags-react-js-038371a69394088407a7.js",
+      "path---tags-react-js-038371a69394088407a7.js.map"
     ],
-    "path---tags-react": [
-      "path---tags-react-29880a05c176f09bd8fe.js",
-      "path---tags-react-29880a05c176f09bd8fe.js.map"
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-b0ddbb32d03260e5842c.js",
+      "component---src-layouts-index-jsx-b0ddbb32d03260e5842c.js.map"
+    ],
+    "path---categories-tech": [
+      "path---categories-tech-04e67fd32b0e5ad78c77.js",
+      "path---categories-tech-04e67fd32b0e5ad78c77.js.map"
     ],
     "path---tags-information": [
       "path---tags-information-1af69eb6875caa9b39b1.js",
@@ -44,30 +44,34 @@
       "path---between-individual-and-species-6b7337980996645e9906.js",
       "path---between-individual-and-species-6b7337980996645e9906.js.map"
     ],
+    "path---tags-gatsby-js": [
+      "path---tags-gatsby-js-fad02a60e2d6aeaebb77.js",
+      "path---tags-gatsby-js-fad02a60e2d6aeaebb77.js.map"
+    ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js",
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---index": [
-      "path---index-4d6e36092c4be62b0208.js",
-      "path---index-4d6e36092c4be62b0208.js.map"
+      "path---index-93b1f1336dee2c58466d.js",
+      "path---index-93b1f1336dee2c58466d.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-573ba4b682396b4b3cf4.js",
-      "path---hello-world-573ba4b682396b4b3cf4.js.map"
+      "path---hello-world-b46dc514f2e7d7f787ea.js",
+      "path---hello-world-b46dc514f2e7d7f787ea.js.map"
     ],
     "path---tags-frederick-langbridge": [
       "path---tags-frederick-langbridge-22e5200e33165e0f9c8f.js",
       "path---tags-frederick-langbridge-22e5200e33165e0f9c8f.js.map"
     ],
     "commons": [
-      "commons-188a69602392a7b21ada.js",
+      "commons-2b56bee8738d1fb4a969.js",
       "build-js-styles.css",
-      "commons-188a69602392a7b21ada.js.map",
+      "commons-2b56bee8738d1fb4a969.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -99,9 +103,9 @@
       "path---tags-life-ecbb07fa0f5128658662.js.map"
     ],
     "app": [
-      "app-70a22efc39396475f92b.js",
+      "app-ce944c90c2fd8e66cc94.js",
       "build-js-styles.css",
-      "app-70a22efc39396475f92b.js.map",
+      "app-ce944c90c2fd8e66cc94.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-emergence": [

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: */tags/
 Disallow: */categories/
 
-sitemap: https://daisukesudo.github.io/sitemap.xml
+sitemap: http://sudo.green/sitemap.xml
