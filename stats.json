@@ -13,8 +13,8 @@
       "path---tags-entropy-ea6b26cb104a0991ff50.js.map"
     ],
     "path---why-does-life-prefer-continuity": [
-      "path---why-does-life-prefer-continuity-fd0c6257fe96a15cba0b.js",
-      "path---why-does-life-prefer-continuity-fd0c6257fe96a15cba0b.js.map"
+      "path---why-does-life-prefer-continuity-f0cecaec5d8b485a932f.js",
+      "path---why-does-life-prefer-continuity-f0cecaec5d8b485a932f.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
@@ -40,6 +40,10 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-f2981d21be31b3663cca.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-f2981d21be31b3663cca.js.map"
     ],
+    "path---thinking-about-the-material-cycle": [
+      "path---thinking-about-the-material-cycle-423d02aa0bba80abbfb0.js",
+      "path---thinking-about-the-material-cycle-423d02aa0bba80abbfb0.js.map"
+    ],
     "path---between-individual-and-species": [
       "path---between-individual-and-species-6b7337980996645e9906.js",
       "path---between-individual-and-species-6b7337980996645e9906.js.map"
@@ -53,16 +57,16 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---index": [
-      "path---index-93b1f1336dee2c58466d.js",
-      "path---index-93b1f1336dee2c58466d.js.map"
+      "path---index-2cef7a226b07f3f47708.js",
+      "path---index-2cef7a226b07f3f47708.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-b46dc514f2e7d7f787ea.js",
-      "path---hello-world-b46dc514f2e7d7f787ea.js.map"
+      "path---hello-world-706adb5187f65e01a76d.js",
+      "path---hello-world-706adb5187f65e01a76d.js.map"
     ],
     "path---tags-frederick-langbridge": [
       "path---tags-frederick-langbridge-22e5200e33165e0f9c8f.js",
@@ -82,6 +86,10 @@
       "path---tags-fractal-b30ec17b444f4ad3b4b9.js",
       "path---tags-fractal-b30ec17b444f4ad3b4b9.js.map"
     ],
+    "path---tags-material": [
+      "path---tags-material-78cedfc7b1ad704a44dd.js",
+      "path---tags-material-78cedfc7b1ad704a44dd.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js",
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
@@ -95,17 +103,21 @@
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
     ],
     "path---one-sees-the-mud-and-one-the-stars": [
-      "path---one-sees-the-mud-and-one-the-stars-3cfd22de1ae27652715c.js",
-      "path---one-sees-the-mud-and-one-the-stars-3cfd22de1ae27652715c.js.map"
+      "path---one-sees-the-mud-and-one-the-stars-d4bbf8a7669e4a2055ec.js",
+      "path---one-sees-the-mud-and-one-the-stars-d4bbf8a7669e4a2055ec.js.map"
+    ],
+    "path---categories-flow": [
+      "path---categories-flow-b03812baf7c75e207b0c.js",
+      "path---categories-flow-b03812baf7c75e207b0c.js.map"
     ],
     "path---tags-life": [
       "path---tags-life-ecbb07fa0f5128658662.js",
       "path---tags-life-ecbb07fa0f5128658662.js.map"
     ],
     "app": [
-      "app-ce944c90c2fd8e66cc94.js",
+      "app-056d37f82643db3ff0a7.js",
       "build-js-styles.css",
-      "app-ce944c90c2fd8e66cc94.js.map",
+      "app-056d37f82643db3ff0a7.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-emergence": [
