@@ -1,2 +1,0 @@
-webpackJsonp([0xf56e76bdc6fd],{452:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/why-does-life-prefer-continuity"},excerpt:"…",timeToRead:1,frontmatter:{title:"Why does life prefer continuity",tags:["life"],cover:"https://unsplash.it/400/300/?random?leaf",date:"2018-04-15"}}}]}},pathContext:{category:"think"}}}});
-//# sourceMappingURL=path---categories-think-81ec806cbdd2bbd7afae.js.map
