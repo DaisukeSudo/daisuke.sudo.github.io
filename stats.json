@@ -13,12 +13,16 @@
       "path---tags-entropy-ea6b26cb104a0991ff50.js.map"
     ],
     "path---why-does-life-prefer-continuity": [
-      "path---why-does-life-prefer-continuity-792651c94b3a3513f8b2.js",
-      "path---why-does-life-prefer-continuity-792651c94b3a3513f8b2.js.map"
+      "path---why-does-life-prefer-continuity-d784e6c54cb74764fff1.js",
+      "path---why-does-life-prefer-continuity-d784e6c54cb74764fff1.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
       "path----6611940bd40871b680a6.js.map"
+    ],
+    "path---thinking-about-open-work": [
+      "path---thinking-about-open-work-95ea969a6bf319928f61.js",
+      "path---thinking-about-open-work-95ea969a6bf319928f61.js.map"
     ],
     "path---tags-react-js": [
       "path---tags-react-js-038371a69394088407a7.js",
@@ -32,6 +36,10 @@
       "path---categories-tech-04e67fd32b0e5ad78c77.js",
       "path---categories-tech-04e67fd32b0e5ad78c77.js.map"
     ],
+    "path---categories-open-work": [
+      "path---categories-open-work-51a5e8f8bba4f7496961.js",
+      "path---categories-open-work-51a5e8f8bba4f7496961.js.map"
+    ],
     "path---tags-paradigm": [
       "path---tags-paradigm-1c214ee278dd1c243657.js",
       "path---tags-paradigm-1c214ee278dd1c243657.js.map"
@@ -39,6 +47,10 @@
     "path---tags-information": [
       "path---tags-information-1af69eb6875caa9b39b1.js",
       "path---tags-information-1af69eb6875caa9b39b1.js.map"
+    ],
+    "path---tags-data-visualization": [
+      "path---tags-data-visualization-2ef8b911c1db29b320b9.js",
+      "path---tags-data-visualization-2ef8b911c1db29b320b9.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -61,16 +73,16 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---index": [
-      "path---index-6ee327df961d91d44c10.js",
-      "path---index-6ee327df961d91d44c10.js.map"
+      "path---index-db68249bf67598858b61.js",
+      "path---index-db68249bf67598858b61.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-1fcb26b7cd2f077a35a9.js",
-      "path---hello-world-1fcb26b7cd2f077a35a9.js.map"
+      "path---hello-world-36d9e143ec30198097b1.js",
+      "path---hello-world-36d9e143ec30198097b1.js.map"
     ],
     "path---tags-frederick-langbridge": [
       "path---tags-frederick-langbridge-22e5200e33165e0f9c8f.js",
@@ -87,8 +99,8 @@
       "path---tags-custom-bc60b512b9527c4789a5.js.map"
     ],
     "path---thinking-about-education": [
-      "path---thinking-about-education-2eed346094be55da38b9.js",
-      "path---thinking-about-education-2eed346094be55da38b9.js.map"
+      "path---thinking-about-education-a07e4c1c92bd8009db1c.js",
+      "path---thinking-about-education-a07e4c1c92bd8009db1c.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js",
@@ -139,18 +151,22 @@
       "path---tags-life-ecbb07fa0f5128658662.js.map"
     ],
     "app": [
-      "app-cafc86da88751a2ffde1.js",
+      "app-03b0898058131cd48b7b.js",
       "build-js-styles.css",
-      "app-cafc86da88751a2ffde1.js.map",
+      "app-03b0898058131cd48b7b.js.map",
       "build-js-styles.css.map"
     ],
     "path---thinking-about-living-with-simplicity": [
       "path---thinking-about-living-with-simplicity-812efe5b231971bc29e1.js",
       "path---thinking-about-living-with-simplicity-812efe5b231971bc29e1.js.map"
     ],
+    "path---tags-augmentation": [
+      "path---tags-augmentation-64c9af0eed0e35864240.js",
+      "path---tags-augmentation-64c9af0eed0e35864240.js.map"
+    ],
     "path---tags-emergence": [
-      "path---tags-emergence-34c260dcece684f135e7.js",
-      "path---tags-emergence-34c260dcece684f135e7.js.map"
+      "path---tags-emergence-c0a1a3247b96c1d3af2f.js",
+      "path---tags-emergence-c0a1a3247b96c1d3af2f.js.map"
     ],
     "path---categories-think": [
       "path---categories-think-2e732d69d7a96cf29d5f.js",
