@@ -13,8 +13,8 @@
       "path---tags-entropy-ea6b26cb104a0991ff50.js.map"
     ],
     "path---why-does-life-prefer-continuity": [
-      "path---why-does-life-prefer-continuity-9e08f1334b91178bcd33.js",
-      "path---why-does-life-prefer-continuity-9e08f1334b91178bcd33.js.map"
+      "path---why-does-life-prefer-continuity-792651c94b3a3513f8b2.js",
+      "path---why-does-life-prefer-continuity-792651c94b3a3513f8b2.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
@@ -31,6 +31,10 @@
     "path---categories-tech": [
       "path---categories-tech-04e67fd32b0e5ad78c77.js",
       "path---categories-tech-04e67fd32b0e5ad78c77.js.map"
+    ],
+    "path---tags-paradigm": [
+      "path---tags-paradigm-1c214ee278dd1c243657.js",
+      "path---tags-paradigm-1c214ee278dd1c243657.js.map"
     ],
     "path---tags-information": [
       "path---tags-information-1af69eb6875caa9b39b1.js",
@@ -57,16 +61,16 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---index": [
-      "path---index-56b12a347e0407ce5e8d.js",
-      "path---index-56b12a347e0407ce5e8d.js.map"
+      "path---index-6ee327df961d91d44c10.js",
+      "path---index-6ee327df961d91d44c10.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
       "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-f5e9e08a79bf9066a1d4.js",
-      "path---hello-world-f5e9e08a79bf9066a1d4.js.map"
+      "path---hello-world-1fcb26b7cd2f077a35a9.js",
+      "path---hello-world-1fcb26b7cd2f077a35a9.js.map"
     ],
     "path---tags-frederick-langbridge": [
       "path---tags-frederick-langbridge-22e5200e33165e0f9c8f.js",
@@ -82,6 +86,10 @@
       "path---tags-custom-bc60b512b9527c4789a5.js",
       "path---tags-custom-bc60b512b9527c4789a5.js.map"
     ],
+    "path---thinking-about-education": [
+      "path---thinking-about-education-2eed346094be55da38b9.js",
+      "path---thinking-about-education-2eed346094be55da38b9.js.map"
+    ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js",
       "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js.map"
@@ -95,8 +103,8 @@
       "path---categories-living-with-simplicity-9c17c79de81369273a3c.js.map"
     ],
     "path---tags-economy": [
-      "path---tags-economy-9ea4a5389f2d860e2796.js",
-      "path---tags-economy-9ea4a5389f2d860e2796.js.map"
+      "path---tags-economy-c0e1820c9d9b20b14080.js",
+      "path---tags-economy-c0e1820c9d9b20b14080.js.map"
     ],
     "path---tags-material": [
       "path---tags-material-54e159151ec073a8b6a0.js",
@@ -122,19 +130,23 @@
       "path---categories-flow-8e2799bbdb559e1b6e93.js",
       "path---categories-flow-8e2799bbdb559e1b6e93.js.map"
     ],
+    "path---categories-education": [
+      "path---categories-education-f0a1b7e37834b6318bb2.js",
+      "path---categories-education-f0a1b7e37834b6318bb2.js.map"
+    ],
     "path---tags-life": [
       "path---tags-life-ecbb07fa0f5128658662.js",
       "path---tags-life-ecbb07fa0f5128658662.js.map"
     ],
     "app": [
-      "app-1924a3a346904ca1f5be.js",
+      "app-0af2221a255e63facdf5.js",
       "build-js-styles.css",
-      "app-1924a3a346904ca1f5be.js.map",
+      "app-0af2221a255e63facdf5.js.map",
       "build-js-styles.css.map"
     ],
     "path---thinking-about-living-with-simplicity": [
-      "path---thinking-about-living-with-simplicity-49df79194459a9e1fe9e.js",
-      "path---thinking-about-living-with-simplicity-49df79194459a9e1fe9e.js.map"
+      "path---thinking-about-living-with-simplicity-812efe5b231971bc29e1.js",
+      "path---thinking-about-living-with-simplicity-812efe5b231971bc29e1.js.map"
     ],
     "path---tags-emergence": [
       "path---tags-emergence-34c260dcece684f135e7.js",
