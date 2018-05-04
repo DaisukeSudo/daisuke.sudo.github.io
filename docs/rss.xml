@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sudo Green (I want to be grass)]]></title><description><![CDATA[It is an individual website.]]></description><link>http://sudo.green</link><image><url>http://sudo.green/logos/logo-512.png</url><title>Sudo Green (I want to be grass)</title><link>http://sudo.green</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Thu, 03 May 2018 14:20:36 GMT</lastBuildDate><atom:link href="http://sudo.green/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Daisuke Sudo]]></author><copyright><![CDATA[Copyright © 2018. Daisuke Sudo]]></copyright><item><title><![CDATA[Thinking about open work]]></title><description><![CDATA[Concept Can we achieve a great purpose by gathering small jobs? How can we achieve constructive collaboration? How should technology be…]]></description><link>http://sudo.green/thinking-about-open-work</link><guid isPermaLink="false">http://sudo.green/thinking-about-open-work</guid><category><![CDATA[augmentation]]></category><category><![CDATA[data visualization]]></category><category><![CDATA[emergence]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Concept&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sudo Green]]></title><description><![CDATA[It is an individual website.]]></description><link>http://sudo.green</link><image><url>http://sudo.green/logos/logo-512.png</url><title>Sudo Green</title><link>http://sudo.green</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 04 May 2018 14:00:42 GMT</lastBuildDate><atom:link href="http://sudo.green/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Daisuke Sudo]]></author><copyright><![CDATA[Copyright © 2018. Daisuke Sudo]]></copyright><item><title><![CDATA[Thinking about open work]]></title><description><![CDATA[Concept Can we achieve a great purpose by gathering small jobs? How can we achieve constructive collaboration? How should technology be…]]></description><link>http://sudo.green/thinking-about-open-work</link><guid isPermaLink="false">http://sudo.green/thinking-about-open-work</guid><category><![CDATA[augmentation]]></category><category><![CDATA[data visualization]]></category><category><![CDATA[emergence]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Concept&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Can we achieve a great purpose by gathering small jobs?&lt;/li&gt;
 &lt;li&gt;How can we achieve constructive collaboration?&lt;/li&gt;
@@ -429,22 +429,18 @@ And Where will it go?&lt;/p&gt;
 仮に機能が同じであっても，それは生命といえるのだろうか。&lt;br&gt;
 ロボットとの違いはあるのか。  &lt;/p&gt;
 &lt;p&gt;たとえ，連続性を排除することができたとしても，&lt;br&gt;
-その存在は生命であり続けられるのであろうか。  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello world]]></title><description><![CDATA[こんにちは。 このサイトは静的サイトジェネレーター "Gatsby JS" で作成されました。   React を使った SPA サイトが簡単につくれます。 https://www.gatsbyjs.org…]]></description><link>http://sudo.green/hello-world</link><guid isPermaLink="false">http://sudo.green/hello-world</guid><category><![CDATA[GatsbyJS]]></category><category><![CDATA[React.js]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;こんにちは。&lt;br&gt;
-このサイトは静的サイトジェネレーター &quot;Gatsby JS&quot; で作成されました。  &lt;/p&gt;
-&lt;p&gt;React を使った SPA サイトが簡単につくれます。&lt;br&gt;
+その存在は生命であり続けられるのであろうか。  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello world]]></title><description><![CDATA[Hello there. This site was built with the static site generator "Gatsbyjs".   Everyone can easily create a SPA site with React. https://www…]]></description><link>http://sudo.green/hello-world</link><guid isPermaLink="false">http://sudo.green/hello-world</guid><category><![CDATA[GatsbyJS]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello there.&lt;br&gt;
+This site was built with the static site generator &quot;Gatsbyjs&quot;.  &lt;/p&gt;
+&lt;p&gt;Everyone can easily create a SPA site with React.&lt;br&gt;
 &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;https://www.gatsbyjs.org/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;ということなのですが&lt;br&gt;
-言われているほど簡単かどうかは分かりません。&lt;br&gt;
-開発環境構築にちょいちょい躓きました。&lt;br&gt;
-（Visual Studio 2017 が悪さするとは。。）&lt;/p&gt;
-&lt;p&gt;とはいえ，いったんフローが確立できれば確かに便利です。&lt;br&gt;
-LiveReload で変更を随時確認しながら開発ができたりします。&lt;br&gt;
-（最近の Web開発は大抵そうな気もする）&lt;br&gt;
-DB使わないのでインフラ周りがシンプルなのもいいですね。&lt;br&gt;
-静的なファイルだけなので git などでバージョン管理しておけば&lt;br&gt;
-任意の時点へ戻すことも簡単です。  &lt;/p&gt;
-&lt;p&gt;便利なサービスがたくさんあっていい時代です。  &lt;/p&gt;
-&lt;p&gt;追記：&lt;br&gt;
-後日 GraphQL らへんで謎の不具合でちゃんとビルドされなくなる現象が。。&lt;br&gt;
-調べようと思ってログを仕込んだら直るという不思議。&lt;br&gt;
-なにかをキャッシュしてたのか何なのか。。？  &lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Is that true? I don&apos;t know if it is as easy as it is told.&lt;br&gt;
+First, I had some difficulty building a development environment.&lt;br&gt;
+(I did not expect Visual Studio 2017 to have a negative impact...)  &lt;/p&gt;
+&lt;p&gt;However, once the flow can be established it is definitely useful.&lt;br&gt;
+Because it does not use DB, it is good that the infrastructure is simple.&lt;br&gt;
+Since it is only a static file, it is easy to revert to an arbitrary point if using version control like git.  &lt;/p&gt;
+&lt;p&gt;It is a good era to have lots of convenient services.  &lt;/p&gt;
+&lt;p&gt;Additional note:&lt;br&gt;
+At a later date, an unknown problem occurred around GraphQL, and it was not built correctly.
+Sometimes it&apos;s fixed after removed the cache, but it may not.
+Gatsby still seems to bring instability.&lt;/p&gt;</content:encoded></item></channel></rss>
