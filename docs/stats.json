@@ -25,8 +25,8 @@
       "path---thinking-about-open-work-95ea969a6bf319928f61.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-dd8478cd163d76133239.js",
-      "component---src-layouts-index-jsx-dd8478cd163d76133239.js.map"
+      "component---src-layouts-index-jsx-0c5af51b52af382ee9c9.js",
+      "component---src-layouts-index-jsx-0c5af51b52af382ee9c9.js.map"
     ],
     "path---categories-tech": [
       "path---categories-tech-8cd804ed71ee3fa98fb6.js",
@@ -56,6 +56,10 @@
       "path---thinking-about-the-material-cycle-bd07fceed6d97d5d7d8c.js",
       "path---thinking-about-the-material-cycle-bd07fceed6d97d5d7d8c.js.map"
     ],
+    "component---src-pages-links-jsx": [
+      "component---src-pages-links-jsx-eb6dd3488abdf3a5498c.js",
+      "component---src-pages-links-jsx-eb6dd3488abdf3a5498c.js.map"
+    ],
     "path---between-individual-and-species": [
       "path---between-individual-and-species-6b7337980996645e9906.js",
       "path---between-individual-and-species-6b7337980996645e9906.js.map"
@@ -73,8 +77,8 @@
       "path---index-dcb34c5b95b688e96b3a.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js",
-      "component---src-pages-about-jsx-9cd55f1e7a00c4884ca0.js.map"
+      "component---src-pages-about-jsx-48ed2dc1085077b57ae8.js",
+      "component---src-pages-about-jsx-48ed2dc1085077b57ae8.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-2c0f2c37fb3a7e4676d9.js",
@@ -123,8 +127,8 @@
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-7c2ee820cd856f1d1b41.js",
-      "component---src-templates-post-jsx-7c2ee820cd856f1d1b41.js.map"
+      "component---src-templates-post-jsx-254839f6373bac564ad3.js",
+      "component---src-templates-post-jsx-254839f6373bac564ad3.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js",
@@ -147,10 +151,14 @@
       "path---tags-life-ecbb07fa0f5128658662.js.map"
     ],
     "app": [
-      "app-f5930cee048e5d443172.js",
+      "app-b8b106c07d794c088d07.js",
       "build-js-styles.css",
-      "app-f5930cee048e5d443172.js.map",
+      "app-b8b106c07d794c088d07.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---links": [
+      "path---links-586c7e095e534a3909ec.js",
+      "path---links-586c7e095e534a3909ec.js.map"
     ],
     "path---thinking-about-living-with-simplicity": [
       "path---thinking-about-living-with-simplicity-812efe5b231971bc29e1.js",
