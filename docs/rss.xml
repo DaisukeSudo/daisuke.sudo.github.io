@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sudo Green]]></title><description><![CDATA[It is an individual website.]]></description><link>http://sudo.green</link><image><url>http://sudo.green/logos/logo-512.png</url><title>Sudo Green</title><link>http://sudo.green</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Sat, 26 May 2018 03:45:19 GMT</lastBuildDate><atom:link href="http://sudo.green/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Daisuke Sudo]]></author><copyright><![CDATA[Copyright © 2018. Daisuke Sudo]]></copyright><item><title><![CDATA[Awe]]></title><description><![CDATA[…]]></description><link>http://sudo.green/awe</link><guid isPermaLink="false">http://sudo.green/awe</guid><category><![CDATA[nature]]></category><category><![CDATA[agriculture]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;我々の持っている自然に対する畏敬の念は&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sudo Green]]></title><description><![CDATA[It is an individual website.]]></description><link>http://sudo.green</link><image><url>http://sudo.green/logos/logo-512.png</url><title>Sudo Green</title><link>http://sudo.green</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Sat, 02 Jun 2018 01:40:49 GMT</lastBuildDate><atom:link href="http://sudo.green/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Daisuke Sudo]]></author><copyright><![CDATA[Copyright © 2018. Daisuke Sudo]]></copyright><item><title><![CDATA[What exists exists, what not exists not exists]]></title><description><![CDATA[…]]></description><link>http://sudo.green/what-exists-exists-what-not-exists-not-exists</link><guid isPermaLink="false">http://sudo.green/what-exists-exists-what-not-exists-not-exists</guid><category><![CDATA[logic]]></category><category><![CDATA[limit]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;あるものはある。ないものはない。&lt;/p&gt;
+&lt;p&gt;果たしてそうか。ないものをないと本当に言えるのだろうか。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;* * * * * * * * * *&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;対象領域を限定した場合には言えるだろう。&lt;/p&gt;
+&lt;p&gt;目の前のテーブルの上にリンゴがあるのかないのか。
+答えは何れかであり，どちらもありえる。
+そしてある時点では決まっている。&lt;/p&gt;
+&lt;p&gt;たとえ何者も観測していなかったとしても。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;* * * * * * * * * *&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;対象領域を限定しない場合はどうか。
+人の認知しうる全てを対象とした場合。&lt;/p&gt;
+&lt;p&gt;世界のどこかにリンゴはあるか。&lt;/p&gt;
+&lt;p&gt;あるだろう。&lt;/p&gt;
+&lt;p&gt;たとえ過去または将来のある時点でリンゴのない時代があったとしても，時点を限定しなければ，やはりあるといえる。
+我々は少なくともある時点ではそれがあったことを知っているからだ。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;実在が不確実のものであっても「ない」としようとしているものの概念はある。&lt;/p&gt;
+&lt;p&gt;“宇宙に終わりはあるのか”などといった場合，その是非はともかく，“宇宙の終わり”という概念は自体は存在する。&lt;/p&gt;
+&lt;p&gt;空想の産物であっても，やはり頭の中で概念としては生み出されている。
+そしてその概念を共有した時，はじめて「ある」のか「ない」のかを含めて論ずることができるようになる。&lt;/p&gt;
+&lt;p&gt;また，対象領域を限定しないということは，無限の可能性を含む並行宇宙のように実在の有無についても言及はしきれない。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;* * * * * * * * * *&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;概念というものの集合について考えてみると，概念のないものは含まれない。&lt;/p&gt;
+&lt;p&gt;「ない」としようとしているものの対象は概念的には「ある」ので含まれる。&lt;/p&gt;
+&lt;p&gt;「ない」という概念についても，それ自体がこの問そのものではあるが，含まれる。&lt;/p&gt;
+&lt;p&gt;「ある」という概念については「ない」がないなら全て「ある」になるので，あえて定義する必要のある概念ではなくなり「ない」となってしまうのか。
+いや，しかしながら概念の集合には「ある」も「ない」も含まれるだろう。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;では，概念の集合に含まれないものは何か。&lt;/p&gt;
+&lt;p&gt;概念は人の知識を抽象化したものとすると，概念の集合は人の知識の集合に含まれる。&lt;/p&gt;
+&lt;p&gt;　　概念 ⊆ 人の知識&lt;/p&gt;
+&lt;p&gt;つまり，少なくとも誰も知らないものは概念の集合には含まれない。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;人は知らないものは「ある」と知っている。&lt;/p&gt;
+&lt;p&gt;知らなかったものを知るという経験を繰り返すことで，まだ他にも知らないことはあると類推する。
+あるいは，ある人は知っているが別のある人は知らないという状況をみることによって。
+また，存在は知っているが，その本質は理解できないという事柄によっても。
+実際，すべてを知っている人はいないだろう。&lt;/p&gt;
+&lt;p&gt;“知らないもの”はあるといったときでも，“知らないもの”という概念は存在する。
+しかし，その具体的な中身については知らないので言及はできない。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;* * * * * * * * * *&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;暗黒物質（ダークマター）や暗黒エネルギー（ダークエネルギー）のような，それが存在することは分かるが，それが何かは分からないというものもある。
+我々の住む宇宙の大部分を占めるにも関わらず，それが何なのか分からないというのは興味深い。
+分かっていることは，いくつかの特徴と「何ではないか」ということ。&lt;/p&gt;
+&lt;p&gt;これは重要な示唆を含んでいる。
+そのものをより注意深く見ようと思ったら，そのものだけを見ようとするのではなく，そのものの輪郭を見ることも大切である。&lt;/p&gt;
+&lt;p&gt;これは逆も言える。「ない」ものを知ろうと思ったら，「ある」ものについてより深く知ることも大切である。&lt;/p&gt;
+&lt;p&gt;我々は何を得ているのか，何を知っているのか。&lt;/p&gt;
+&lt;p&gt;知っていると思っていることも案外と知らないこともあるし，知らないと思っていたことも実は心得ていた範疇かもしれない。
+その輪郭を意識してみることで，よくよく見つめ直すことにつながるかもしれない。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Awe]]></title><description><![CDATA[…]]></description><link>http://sudo.green/awe</link><guid isPermaLink="false">http://sudo.green/awe</guid><category><![CDATA[nature]]></category><category><![CDATA[agriculture]]></category><dc:creator><![CDATA[Daisuke Sudo]]></dc:creator><pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;我々の持っている自然に対する畏敬の念は&lt;br&gt;
 自然を完璧には理解できないし&lt;br&gt;
 制御することもできない&lt;br&gt;
 我々はその中で生かされている&lt;br&gt;
