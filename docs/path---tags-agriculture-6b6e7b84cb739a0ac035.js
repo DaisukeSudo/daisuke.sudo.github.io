@@ -1,2 +1,2 @@
-webpackJsonp([0x95b8604d0c0a],{524:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/awe"},excerpt:"…",timeToRead:1,frontmatter:{title:"Awe",tags:["nature","agriculture"],cover:"https://unsplash.it/800/600/?random?esteem",date:"2018-05-26"}}}]}},pathContext:{tag:"agriculture"}}}});
+webpackJsonp([0x95b8604d0c0a],{527:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/awe"},excerpt:"…",timeToRead:1,frontmatter:{title:"Awe",tags:["nature","agriculture"],cover:"https://unsplash.it/800/600/?random?esteem",date:"2018-05-26"}}}]}},pathContext:{tag:"agriculture"}}}});
 //# sourceMappingURL=path---tags-agriculture-6b6e7b84cb739a0ac035.js.map

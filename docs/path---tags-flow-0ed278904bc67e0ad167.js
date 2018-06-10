@@ -1,0 +1,2 @@
+webpackJsonp([0xb202026da32b],{534:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/discrete-integrate-and-balance"},excerpt:"…",timeToRead:1,frontmatter:{title:"Discrete, integrate and balance",tags:["life","flow","paradigm"],cover:"https://unsplash.it/800/600/?random?equilibrium",date:"2018-06-10"}}}]}},pathContext:{tag:"flow"}}}});
+//# sourceMappingURL=path---tags-flow-0ed278904bc67e0ad167.js.map
